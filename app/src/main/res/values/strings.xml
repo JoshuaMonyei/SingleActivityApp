@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SingleActivity</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="icon1">icon1</string>
+    <string name="icon2">icon2</string>
+    <string name="icon4">icon4</string>
+    <string name="icon3">icon3</string>
+    <string name="full_name_joshua_monyei_nslack_id_kylo_ren_nemail_monyeijosh01_gmail_com">Full Name: Joshua Monyei\nSlack ID: Kylo-Ren\nEmail: monyeijosh01@gmail.com</string>
+    <string name="full_name_joshua_monyei_n_slack_id_kylo_ren_n_email_monyeijosh01_gmail_com">Full Name: Joshua Monyei\n Slack ID: Kylo-Ren\n Email: monyeijosh01@gmail.com</string>
+    <string name="icon5">icon5</string>
+    <string name="icon6">icon6</string>
+    <string name="icon7">icon7</string>
+</resources>
